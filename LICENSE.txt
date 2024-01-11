@@ -1,0 +1,21 @@
+Breast Cancer Segmentation and Classification Project License
+
+This repository is provided under the following terms:
+
+1. You are free to:
+   - Use the code and resources for educational and research purposes.
+   - Share and distribute the code and resources.
+   - Modify and adapt the code for your needs.
+
+2. You must, when using this repository:
+   - Provide proper attribution by citing the original work as follows:
+     "Dizaj, Shima Baniadam, and Pourya Valizadeh. 'Breast Cancer Segmentation and Classification in Ultrasound Images Using Convolutional Neural Network.' (2021)."
+
+3. You can not:
+   - Use the code or resources for commercial purposes without obtaining explicit permission.
+   - Hold the authors or contributors responsible for any damages resulting from the use of the code or resources.
+
+By using this repository, you agree to abide by these terms and conditions. If you do not agree with these terms, you may not use the code or resources.
+
+For any questions or additional permissions, please contact the authors.
+
